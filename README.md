@@ -22,6 +22,10 @@ the project is the combination of html,css,&amp; javascript
   <div class="btn purple"type="button" id="purple"></div>
 </div>
   </div>
+ <script src="app.js"></script>
+ </body>
+ </html>
+
 
 
 
